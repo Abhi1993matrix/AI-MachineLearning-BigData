@@ -4,9 +4,8 @@
 
 
 
-> #### _“I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able_
-> #### _to speak of machines thinking without expecting to be contradicted.”_
->>> -- _Alan Turing_
+> #### _“I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted.”_
+>>  _Alan Turing_
 
 
 Capability of human mind to have a vision to see far into future and predict a outcome is always been the nectar of the evolution of Human .
